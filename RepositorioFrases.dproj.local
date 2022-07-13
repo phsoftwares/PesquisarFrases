@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/07/11 14:26:48.000.842,=X:\Users\PEDRO\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/07/11 14:28:44.000.478,=X:\Users\PEDRO\Documents\Embarcadero\Studio\Projects\AppletModule1.pas</Transaction>
+    <Transaction>2022/07/13 14:29:52.000.980,=X:\Users\PEDRO\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/07/13 14:31:54.000.094,X:\Users\PEDRO\Documents\Embarcadero\Studio\Projects\Unit1.dfm=X:\Users\PEDRO\Desktop\PEDRO HENRIQUE-DELPHI\02\uPrincipal.dfm</Transaction>
+    <Transaction>2022/07/13 14:31:54.000.094,X:\Users\PEDRO\Documents\Embarcadero\Studio\Projects\Unit1.pas=X:\Users\PEDRO\Desktop\PEDRO HENRIQUE-DELPHI\02\uPrincipal.pas</Transaction>
+    <Transaction>2022/07/13 14:31:59.000.695,X:\Users\PEDRO\Documents\Embarcadero\Studio\Projects\Project1.dproj=X:\Users\PEDRO\Desktop\PEDRO HENRIQUE-DELPHI\02\RepositorioFrases.dproj</Transaction>
+    <Transaction>2022/07/13 14:32:05.000.662,=X:\Users\PEDRO\Desktop\PEDRO HENRIQUE-DELPHI\02\Unit1.pas</Transaction>
+    <Transaction>2022/07/13 14:39:13.000.299,X:\Users\PEDRO\Desktop\PEDRO HENRIQUE-DELPHI\02\Unit1.dfm=X:\Users\PEDRO\Desktop\PEDRO HENRIQUE-DELPHI\02\uFrase.dfm</Transaction>
+    <Transaction>2022/07/13 14:39:13.000.299,X:\Users\PEDRO\Desktop\PEDRO HENRIQUE-DELPHI\02\Unit1.pas=X:\Users\PEDRO\Desktop\PEDRO HENRIQUE-DELPHI\02\uFrase.pas</Transaction>
+  </Transactions>
+</BorlandProject>
